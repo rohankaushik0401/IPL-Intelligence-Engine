@@ -1,0 +1,193 @@
+bowler,innings,wickets,average,strike_rate,economy,class
+"YS Chahal",176,220,22.73,17.59,7.76,elite
+"B Kumar",195,205,26.20,21.18,7.42,elite
+"SP Narine",191,195,25.32,22.77,6.67,elite
+"PP Chawla",191,189,26.59,20.37,7.83,elite
+"JJ Bumrah",150,186,21.72,18.67,6.98,elite
+"DJ Bravo",158,183,22.73,17.05,8.00,"runs-wickets trader"
+"R Ashwin",217,183,29.79,25.74,6.95,Choker
+"A Mishra",162,173,23.37,19.49,7.20,elite
+"RA Jadeja",228,172,29.90,23.83,7.53,Choker
+"SL Malinga",122,170,18.68,16.63,6.74,elite
+"Rashid Khan",140,163,23.52,20.23,6.98,elite
+"HV Patel",119,151,22.86,16.36,8.39,"runs-wickets trader"
+"Sandeep Sharma",141,151,27.23,20.83,7.84,elite
+"Harbhajan Singh",160,146,26.88,23.40,6.89,Choker
+"UT Yadav",147,144,28.83,21.22,8.15,"runs-wickets trader"
+"TA Boult",122,144,25.96,19.03,8.18,"runs-wickets trader"
+"Mohammed Shami",124,137,27.26,19.91,8.21,"runs-wickets trader"
+"MM Sharma",119,134,25.55,17.93,8.55,"runs-wickets trader"
+"AR Patel",164,131,31.49,25.99,7.27,economist
+"K Rabada",88,126,22.10,15.88,8.35,"runs-wickets trader"
+"AD Russell",121,123,22.41,14.68,9.16,"runs-wickets trader"
+"JD Unadkat",115,114,30.09,20.62,8.75,"runs-wickets trader"
+"SN Thakur",107,114,28.53,18.89,9.06,"runs-wickets trader"
+"Mohammed Siraj",112,112,29.24,21.29,8.24,"runs-wickets trader"
+"A Nehra",88,106,22.69,18.00,7.56,elite
+"R Vinay Kumar",104,105,27.60,20.26,8.17,"runs-wickets trader"
+"Kuldeep Yadav",100,104,27.40,20.60,7.98,elite
+"Z Khan",99,102,26.38,21.57,7.34,elite
+"Arshdeep Singh",86,102,25.45,17.86,8.55,"runs-wickets trader"
+"CV Varun",86,99,24.61,19.62,7.53,elite
+"KH Pandya",137,98,31.01,25.51,7.29,economist
+"DW Steyn",95,97,24.67,22.49,6.58,elite
+"I Sharma",117,96,33.19,25.20,7.90,economist
+"CH Morris",81,96,23.02,17.98,7.68,elite
+"Avesh Khan",79,93,26.85,18.31,8.80,"runs-wickets trader"
+"SR Watson",105,92,27.85,22.05,7.58,elite
+"KK Ahmed",76,91,26.09,18.21,8.60,"runs-wickets trader"
+"P Kumar",119,90,34.51,28.04,7.38,economist
+"RP Singh",82,90,24.64,19.72,7.50,elite
+"DL Chahar",98,89,28.92,21.96,7.90,elite
+"PP Ojha",90,88,25.63,21.58,7.12,elite
+"DS Kulkarni",92,86,27.37,20.78,7.90,elite
+"JA Morkel",87,85,26.44,20.27,7.82,elite
+"M Prasidh Krishna",70,85,26.32,18.84,8.38,"runs-wickets trader"
+"KV Sharma",87,82,26.70,19.33,8.29,"runs-wickets trader"
+"Imran Tahir",59,82,20.22,16.05,7.56,elite
+"Ravi Bishnoi",81,81,28.57,21.35,8.03,"runs-wickets trader"
+"IK Pathan",101,80,32.09,25.54,7.54,economist
+"HH Pandya",111,80,31.60,21.25,8.92,"expensive wicket taker"
+"PJ Cummins",72,79,28.95,20.47,8.49,"runs-wickets trader"
+"M Morkel",70,77,25.91,21.16,7.35,elite
+"L Balaji",73,76,25.57,19.89,7.71,elite
+"RD Chahar",79,75,28.69,22.59,7.62,elite
+"MM Patel",63,74,22.26,18.31,7.29,elite
+"T Natarajan",67,73,28.66,19.89,8.64,"runs-wickets trader"
+"R Bhatia",91,71,27.94,23.04,7.28,Choker
+"MJ McClenaghan",56,71,23.86,17.94,7.98,elite
+"AB Dinda",75,69,28.42,21.97,7.76,elite
+"KA Pollard",107,68,30.51,21.88,8.37,"expensive wicket taker"
+"JC Archer",57,66,25.18,20.00,7.55,elite
+"JH Kallis",89,65,34.00,26.80,7.61,economist
+"SK Trivedi",75,65,28.05,23.17,7.26,Choker
+"MA Starc",50,65,22.06,16.37,8.09,"runs-wickets trader"
+"Mustafizur Rahman",60,65,27.37,20.98,7.83,elite
+"M Muralitharan",66,64,25.64,23.88,6.44,Choker
+"Shakib Al Hasan",70,63,28.60,23.56,7.29,Choker
+"MG Johnson",54,62,26.18,19.92,7.89,elite
+"JP Faulkner",60,61,28.54,20.30,8.44,"runs-wickets trader"
+"A Nortje",49,61,26.41,18.36,8.63,"runs-wickets trader"
+"JR Hazlewood",41,60,20.53,15.25,8.08,"runs-wickets trader"
+"SM Curran",63,59,33.37,21.24,9.43,"expensive wicket taker"
+"S Kaul",55,58,29.36,20.84,8.45,"runs-wickets trader"
+"SK Warne",54,56,25.14,21.32,7.08,elite
+"LH Ferguson",49,54,26.93,19.00,8.50,"runs-wickets trader"
+"TU Deshpande",49,54,29.63,18.87,9.42,"runs-wickets trader"
+"JO Holder",46,53,26.28,18.77,8.40,"runs-wickets trader"
+"S Gopal",51,52,25.69,19.06,8.09,"runs-wickets trader"
+"Noor Ahmad",42,51,23.12,17.53,7.91,elite
+"S Nadeem",70,48,36.29,29.48,7.39,economist
+"NM Coulter-Nile",38,48,21.96,17.85,7.38,elite
+"TG Southee",54,47,35.72,25.66,8.35,bad
+"M Pathirana",32,47,19.38,14.94,7.79,elite
+"SB Jakati",57,46,30.89,23.59,7.86,economist
+"PWH de Silva",37,46,24.07,17.35,8.32,"runs-wickets trader"
+"A Kumble",42,45,22.64,21.44,6.34,elite
+"RJ Harris",37,45,22.13,18.49,7.18,elite
+"S Aravind",38,45,22.38,16.89,7.95,elite
+"VR Aaron",50,44,31.66,22.59,8.41,"expensive wicket taker"
+"MP Stoinis",72,44,32.11,20.32,9.48,"expensive wicket taker"
+"MC Henriques",60,42,29.88,22.62,7.93,elite
+"AJ Tye",30,42,22.57,16.29,8.32,"runs-wickets trader"
+"VG Arora",36,42,27.05,17.48,9.29,"runs-wickets trader"
+"YK Pathan",82,41,33.46,27.98,7.18,economist
+"GJ Maxwell",85,41,33.68,24.93,8.11,bad
+"MM Ali",57,41,24.73,20.83,7.12,elite
+"Yash Dayal",43,41,32.20,21.24,9.09,"expensive wicket taker"
+"Mukesh Kumar",36,41,28.90,17.56,9.88,"runs-wickets trader"
+"S Sreesanth",44,40,27.33,22.00,7.45,elite
+"Iqbal Abdulla",48,40,27.08,23.00,7.06,Choker
+"R Sharma",44,40,26.98,23.20,6.98,Choker
+"Harshit Rana",32,40,24.73,16.23,9.14,"runs-wickets trader"
+"P Awana",33,39,25.38,19.15,7.95,elite
+"Washington Sundar",65,39,37.31,29.33,7.63,economist
+"M Jansen",39,39,30.49,21.26,8.61,"expensive wicket taker"
+"PJ Sangwan",42,38,30.92,22.53,8.24,"expensive wicket taker"
+"DT Christian",49,38,30.21,23.24,7.80,Choker
+"MS Gony",44,37,33.73,24.00,8.43,bad
+"DE Bollinger",27,37,17.86,15.57,6.89,elite
+"MR Marsh",34,37,20.57,15.14,8.15,"runs-wickets trader"
+"Yuvraj Singh",73,36,29.56,24.14,7.35,Choker
+"M Markande",40,36,31.25,20.83,9.00,"expensive wicket taker"
+"M Theekshana",38,36,32.58,24.33,8.03,bad
+"WD Parnell",33,35,25.11,20.66,7.29,elite
+"M Ashwin",44,35,32.29,24.86,7.79,economist
+"Harpreet Brar",46,35,30.20,23.17,7.82,Choker
+"P Negi",42,34,27.12,21.06,7.73,elite
+"L Ngidi",20,34,18.29,13.71,8.01,"runs-wickets trader"
+"KK Cooper",25,33,21.97,17.45,7.55,elite
+"R Sai Kishore",25,32,19.97,13.78,8.69,"runs-wickets trader"
+"M Kartik",55,31,43.10,37.06,6.98,economist
+"NLTC Perera",36,31,32.10,22.52,8.55,"expensive wicket taker"
+"R Tewatia",52,31,35.06,27.19,7.74,economist
+"A Zampa",22,31,20.61,15.06,8.21,"runs-wickets trader"
+"CJ Jordan",34,30,34.20,22.47,9.13,"expensive wicket taker"
+"CR Woakes",21,30,21.13,14.67,8.65,"runs-wickets trader"
+"Shivam Mavi",32,30,29.67,21.63,8.23,"runs-wickets trader"
+"AB Agarkar",42,29,38.14,26.97,8.49,bad
+"Azhar Mahmood",23,29,23.21,18.52,7.52,elite
+"Umran Malik",26,29,24.97,17.00,8.81,"runs-wickets trader"
+"DL Vettori",34,28,31.11,27.75,6.73,economist
+"DP Nannes",29,28,26.14,23.07,6.80,Choker
+"A Singh",23,28,21.50,16.89,7.64,elite
+"BA Stokes",38,28,34.04,24.61,8.30,bad
+"Mohsin Khan",24,28,24.32,18.21,8.01,"runs-wickets trader"
+"MF Maharoof",20,27,18.22,15.56,7.03,elite
+"Harmeet Singh",28,27,25.67,20.33,7.57,elite
+"AD Mathews",44,27,39.04,29.30,7.99,bad
+"PV Tambe",33,27,30.89,24.44,7.58,economist
+"DR Smith",46,26,30.04,20.73,8.69,"runs-wickets trader"
+"MJ Santner",33,26,29.73,24.81,7.19,Choker
+"B Lee",38,25,41.16,35.00,7.06,economist
+"SK Raina",69,25,43.84,36.32,7.24,economist
+"J Botha",34,25,31.24,27.76,6.75,economist
+"R Dhawan",36,25,33.96,26.48,7.69,economist
+"Yash Thakur",21,25,29.44,17.72,9.97,"runs-wickets trader"
+"AS Rajpoot",29,24,31.71,22.04,8.63,"expensive wicket taker"
+"Navdeep Saini",32,24,38.75,27.92,8.33,bad
+"JP Duminy",48,23,34.87,29.48,7.10,economist
+"SW Tait",21,23,24.00,20.57,7.00,elite
+"GB Hogg",21,23,23.83,19.91,7.18,elite
+"STR Binny",63,22,33.68,27.00,7.48,economist
+"Basil Thampi",25,22,37.64,23.68,9.54,bad
+"Shahbaz Ahmed",46,22,42.36,27.00,9.41,bad
+"Suyash Sharma",31,22,42.18,29.45,8.59,bad
+"Vijaykumar Vyshak",20,22,30.95,18.68,9.94,"expensive wicket taker"
+"RE van der Merwe",21,21,23.14,21.10,6.58,elite
+"AS Joseph",22,21,31.81,20.67,9.24,"expensive wicket taker"
+"A Symonds",30,20,32.80,26.35,7.47,economist
+"K Gowtham",35,20,39.85,29.40,8.13,bad
+"Mujeeb Ur Rahman",20,20,29.35,22.30,7.90,elite
+"Kartik Tyagi",24,20,40.70,25.60,9.54,bad
+"C Sakariya",20,20,29.60,22.20,8.00,"runs-wickets trader"
+"J Suchith",21,19,30.79,22.11,8.36,"expensive wicket taker"
+"CH Gayle",38,18,37.67,30.78,7.34,economist
+"Anureet Singh",22,18,32.94,22.89,8.64,bad
+"A Ashish Reddy",20,18,21.33,14.56,8.79,"runs-wickets trader"
+"IC Pandey",24,18,32.22,25.67,7.53,economist
+"BB Sran",24,18,39.67,26.83,8.87,bad
+"BJ Hodge",20,17,17.29,13.76,7.54,elite
+"C Green",31,17,40.47,27.24,8.92,bad
+"Bipul Sharma",28,16,34.81,26.63,7.85,economist
+"LR Shukla",27,15,28.47,20.93,8.16,"runs-wickets trader"
+"RG Sharma",32,15,29.20,22.60,7.75,elite
+"Mohammad Nabi",23,15,34.27,27.80,7.40,economist
+"JR Hopes",20,14,38.50,25.71,8.98,bad
+"ST Jayasuriya",21,13,28.85,22.62,7.65,elite
+"LS Livingstone",27,13,35.38,24.00,8.85,bad
+"RR Powar",26,12,41.75,35.50,7.06,economist
+"Ankit Sharma",21,12,36.33,30.58,7.13,economist
+"CJ Anderson",22,11,45.18,27.00,10.04,bad
+"Abhishek Sharma",34,11,46.55,31.55,8.85,bad
+"SC Ganguly",20,10,35.80,27.60,7.78,economist
+"N Rana",26,10,26.50,19.20,8.28,"runs-wickets trader"
+"V Shankar",22,9,35.00,26.44,7.94,economist
+"DJ Hooda",34,9,59.11,42.11,8.42,bad
+"R Parag",32,9,53.00,34.11,9.32,bad
+"DJ Hussey",26,8,58.38,39.63,8.84,bad
+"J Yadav",20,8,54.50,48.75,6.71,economist
+"Y Venugopal Rao",20,6,54.83,36.00,9.14,bad
+"AK Markram",21,6,49.67,33.83,8.81,bad
+"TM Dilshan",25,5,72.20,54.20,7.99,bad
+"V Kohli",26,4,86.75,62.75,8.29,bad

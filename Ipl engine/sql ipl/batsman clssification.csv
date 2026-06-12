@@ -1,0 +1,159 @@
+batter,innings,average,strike_rate,stdev,class
+"B Sai Sudharsan",44,43.32,140.25,27,"double geared"
+"KL Rahul",138,38.74,133.15,29.9,"double geared"
+"DP Conway",28,38.57,136.02,31.6,"double geared"
+"LMP Simmons",29,37.21,122.89,28.7,anchor
+"Shubman Gill",110,36.08,135.65,29.4,"double geared"
+"SE Marsh",69,36.07,130.11,28.8,anchor
+"DA Warner",184,35.69,135.43,28.9,"double geared"
+"CH Gayle",141,35.44,142.12,33,"double geared"
+"JC Buttler",123,34.93,144.73,30.6,"double geared"
+"ML Hayden",32,34.59,131.94,26,"double geared"
+"RD Gaikwad",75,34.20,133.11,30.1,"double geared"
+"MEK Hussey",58,34.09,119.96,28.9,anchor
+"H Klaasen",50,34.08,158.51,23.9,"double geared"
+"V Kohli",260,34.03,129.91,27.2,anchor
+"YBK Jaiswal",71,33.10,149.02,27.9,"double geared"
+"F du Plessis",146,32.68,132.48,25,"double geared"
+"JM Bairstow",52,32.19,141.74,27.3,"double geared"
+"CA Lynn",42,31.64,136.45,25,"double geared"
+"RM Patidar",43,31.00,152.69,22.7,"double geared"
+"S Dhawan",219,30.73,123.37,25.4,anchor
+"PD Salt",39,30.64,168.79,27.2,"double geared"
+"AB de Villiers",170,30.48,148.58,27.5,"double geared"
+"TM Head",42,30.14,160.66,28.1,"double geared"
+"Priyansh Arya",22,30.14,183.66,26.7,"double geared"
+"SA Yadav",139,30.00,145.50,24,"double geared"
+"SR Tendulkar",78,29.92,114.19,22.5,anchor
+"Q de Kock",116,29.52,131.84,27.7,"double geared"
+"RR Pant",125,29.30,141.88,25.3,"double geared"
+"JJ Roy",21,29.24,133.48,23.5,"double geared"
+"SS Iyer",135,29.17,130.48,24.4,"double geared"
+"P Simran Singh",55,28.18,152.71,25,"double geared"
+"A Raghuvanshi",22,28.09,142.07,17.1,elite
+"KS Williamson",76,28.05,122.95,23.4,anchor
+"SV Samson",174,27.95,136.07,25.5,"double geared"
+"G Gambhir",151,27.93,119.67,24.1,anchor
+"Tilak Varma",55,27.89,137.09,19.4,elite
+"AM Rahane",185,27.87,122.44,24,anchor
+"KP Pietersen",36,27.81,132.06,21.7,"double geared"
+"Ishan Kishan",113,27.81,136.24,24.8,"double geared"
+"A Symonds",35,27.74,124.81,22.5,anchor
+"DR Smith",86,27.70,132.55,23,"double geared"
+"SR Watson",140,27.69,134.26,26.7,"double geared"
+"SK Raina",200,27.68,132.54,23.2,"double geared"
+"JP Duminy",73,27.64,120.98,20.3,accumulator
+"MR Marsh",47,27.60,138.72,27.5,"double geared"
+"R Dravid",78,27.55,113.05,19.3,accumulator
+"VR Iyer",53,27.43,132.42,23.9,"double geared"
+"SPD Smith",91,27.01,125.34,20.7,accumulator
+"T Stubbs",30,26.70,160.84,20.1,elite
+"RG Sharma",270,26.61,129.20,24.1,anchor
+"BB McCullum",109,26.44,126.85,26.7,anchor
+"V Sehwag",104,26.23,148.83,27.4,"double geared"
+"AK Markram",60,26.00,132.99,18.7,elite
+"AC Gilchrist",80,25.86,133.05,24.5,"double geared"
+"ST Jayasuriya",30,25.60,134.03,24.6,"double geared"
+"JH Kallis",95,25.55,105.94,22.3,anchor
+"RV Uthappa",193,25.48,126.30,21.2,anchor
+"GC Smith",29,25.48,106.95,25.4,anchor
+"N Pooran",89,25.46,156.17,22.6,"double geared"
+"Abhishek Sharma",76,25.34,157.35,25.9,"double geared"
+"S Dube",72,25.29,138.37,19.5,elite
+"S Badrinath",54,25.28,114.13,21.4,anchor
+"C Green",30,25.17,150.40,23,"double geared"
+"MK Pandey",152,25.16,117.55,22.7,anchor
+"E Lewis",26,25.15,131.06,21.3,"double geared"
+"Dhruv Jurel",31,25.13,155.18,23.5,"double geared"
+"M Vijay",104,25.05,118.30,24.1,anchor
+"N Rana",115,24.98,131.43,22.5,"double geared"
+"D Padikkal",78,24.88,123.63,21.6,anchor
+"KC Sangakkara",68,24.81,118.47,21.3,anchor
+"HH Gibbs",36,24.61,105.85,20.2,accumulator
+"Abishek Porel",25,24.48,144.00,18.9,elite
+"Nithish Kumar Reddy",24,24.38,131.76,19.5,elite
+"Shashank Singh",25,24.24,152.64,21,elite
+"RS Bopara",22,24.14,113.46,23.2,anchor
+"OA Shah",21,24.05,125.00,21,accumulator
+"PP Shaw",79,23.95,143.22,23.1,slogger
+"SC Ganguly",55,23.87,101.78,23.2,poor
+"RA Tripathi",94,23.77,134.34,21.7,slogger
+"MS Dhoni",199,23.76,132.10,18.4,"measured hitter"
+"AT Rayudu",181,23.60,123.93,20.9,poor
+"AJ Finch",89,23.22,122.89,22,poor
+"DA Miller",136,23.21,134.07,20,"measured hitter"
+"DPMD Jayawardene",78,23.18,118.79,22,poor
+"TM Dilshan",50,23.06,110.12,21.7,poor
+"N Wadhera",30,22.67,132.55,20.8,"measured hitter"
+"R Parag",68,22.54,138.36,21.7,slogger
+"SS Tiwary",62,22.37,114.72,17.1,poor
+"KK Nair",76,22.29,128.92,21.3,poor
+"LS Livingstone",47,22.21,147.88,23.5,slogger
+"MA Agarwal",124,22.20,128.71,21.7,poor
+"CL White",43,22.19,124.22,22.6,poor
+"PC Valthaty",23,21.96,116.90,28.3,poor
+"Yuvraj Singh",126,21.86,124.78,18.3,poor
+"WP Saha",124,21.85,122.25,20.8,poor
+"BA Stokes",43,21.74,130.22,23.4,slogger
+"DJ Hussey",61,21.67,120.07,18.3,poor
+"M Vohra",50,21.66,125.64,19.3,poor
+"HH Pandya",115,21.56,142.14,18.4,"measured hitter"
+"RR Rossouw",22,21.50,147.35,21.7,slogger
+"RK Singh",44,21.48,131.43,16.1,"measured hitter"
+"MK Tiwary",75,21.47,111.57,18.3,poor
+"BJ Hodge",58,21.31,118.50,18.8,poor
+"PA Patel",134,21.23,116.79,17.8,poor
+"KD Karthik",209,21.22,129.54,18.9,poor
+"AD Russell",76,21.20,168.34,19.4,"measured hitter"
+"Y Venugopal Rao",42,21.12,114.90,16.8,poor
+"V Shankar",57,21.11,125.57,17.2,poor
+"GJ Maxwell",134,21.04,148.73,23.3,slogger
+"YK Pathan",144,21.01,136.45,19.7,"measured hitter"
+"MP Stoinis",87,20.89,135.60,22.1,slogger
+"JD Ryder",29,20.83,129.61,21.9,poor
+"MS Bisla",38,20.82,108.65,22.8,poor
+"TH David",32,20.81,181.97,16.7,"measured hitter"
+"KA Pollard",149,20.34,138.97,19,"measured hitter"
+"JM Sharma",44,20.30,147.85,16.4,"measured hitter"
+"MM Ali",56,20.14,134.45,20.2,"measured hitter"
+"A Badoni",42,20.10,128.07,18.4,poor
+"SP Narine",83,19.96,160.41,22.3,slogger
+"SM Curran",43,19.63,129.25,19.8,poor
+"MC Henriques",50,19.38,126.50,17.3,poor
+"Gurkeerat Singh",21,19.29,112.19,15.7,poor
+"SO Hetmyer",70,19.29,147.54,16.9,"measured hitter"
+"EJG Morgan",73,19.19,119.34,17.5,poor
+"LRPL Taylor",53,18.98,119.90,16.7,poor
+"KH Pandya",67,18.82,125.47,18,poor
+"AL Menaria",21,18.76,109.44,12.7,poor
+"SW Billings",27,18.63,126.07,16.6,poor
+"CJ Anderson",29,18.55,123.39,21.3,poor
+"SN Khan",36,18.50,134.00,16.7,"measured hitter"
+"GJ Bailey",33,18.39,119.49,15.7,poor
+"RA Jadeja",142,18.33,126.42,14.5,poor
+"J Botha",20,18.25,111.96,16.1,poor
+"NV Ojha",79,18.24,115.56,19,poor
+"TL Suman",35,18.00,118.64,16.8,poor
+"Shakib Al Hasan",38,17.87,120.39,16,poor
+"Mandeep Singh",96,17.70,120.50,17.3,poor
+"AD Mathews",38,17.53,120.87,15.1,poor
+"Washington Sundar",25,17.08,114.78,14.5,poor
+"MK Lomror",25,17.04,131.08,16.1,"measured hitter"
+"Shahbaz Ahmed",25,17.00,115.18,15.8,poor
+"M Shahrukh Khan",32,16.00,136.53,15.3,"measured hitter"
+"AR Patel",55,15.85,121.45,14.3,poor
+"DJ Bravo",68,15.82,113.86,15.5,poor
+"JA Morkel",44,15.45,144.37,17.1,"measured hitter"
+"DJ Hooda",94,15.44,125.19,15.6,poor
+"STR Binny",47,15.13,123.22,12.7,poor
+"KM Jadhav",69,15.12,117.85,15,poor
+"UBT Chand",20,15.00,95.54,15,poor
+"R Tewatia",46,14.67,141.21,12.8,"measured hitter"
+"M Manhas",26,14.62,101.60,13.2,poor
+"AM Nayar",41,14.44,115.18,12,poor
+"IK Pathan",50,14.32,110.49,12.3,poor
+"R Ashwin",24,14.25,111.40,13.9,poor
+"VVS Laxman",20,14.10,104.06,15.9,poor
+"AP Tare",22,13.91,113.75,13.6,poor
+"DT Christian",30,12.47,111.64,11.4,poor
+"Abdul Samad",26,11.50,130.57,11.8,"measured hitter"
