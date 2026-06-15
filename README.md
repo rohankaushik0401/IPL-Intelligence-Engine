@@ -402,6 +402,7 @@ Dashboard Pages:
 * Momentum Analysis
 * Champion Team Benchmarking
 * Predictive Score Engine
+* Interactive slicers
 
 ---
 
